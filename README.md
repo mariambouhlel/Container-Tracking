@@ -14,7 +14,7 @@ Améliorer les prédiction des délais de livraison en comparant en nouveau mod�
 - Décomposition du délai en sous-étapes logistiques
 - Analyse des erreurs du modèle existant
 - Construction d'un modèle Random Forest (régression par forêt aléatoire)
-- Comparaison des performances des deux modèles (calcul de l'erreur absolue moyenne et duc coefficient R^2)
+- Comparaison des performances des deux modèles (calcul de l'erreur absolue moyenne et du coefficient R^2)
 - Identification des facteurs déterminants la prédiction  du délai
 
 ## Résultat
