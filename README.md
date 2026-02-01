@@ -18,4 +18,4 @@ Améliorer les prédiction des délais de livraison en comparant en nouveau mod�
 - Identification des facteurs déterminants la prédiction  du délai
 
 ## Résultat
-Réduction de l'erreur moyenne de prédiction de 3,93 à 3,01 jours (non négligeable à l'échelle du tracking de milliers de conteneurs
+Réduction de l'erreur moyenne de prédiction de 3,93 à 3,01 jours (non négligeable à l'échelle du tracking de milliers de conteneurs)
