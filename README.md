@@ -7,7 +7,7 @@ Améliorer les prédiction des délais de livraison en comparant en nouveau mod�
 
 ## Contenu
 - Jeu de données : '[Container Tracking Data.xlsx](https://www.kaggle.com/datasets/muzammalnawaz/container-tracking-data-set)'
-- Notebook : 'https://colab.research.google.com/drive/1QM6vU62aO0sHL7veBEyvsyO-o7V_26OW?usp=sharing'
+- Notebook : '[Container Tracking Notebook](https://colab.research.google.com/drive/1QM6vU62aO0sHL7veBEyvsyO-o7V_26OW?usp=sharing)'
 
 ## Méthodologie
 - Nettoyage des données de tracking incohérentes
