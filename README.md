@@ -1,6 +1,6 @@
 # Prédiction et analyse des délais de livraison des conteneurs de la Chine aux États-Unis
 
-Projet personnel de science des données appliquée à la logistique maritime
+Projet personnel de science des données appliqué à la logistique maritime
 
 ## Objectif
 Améliorer les prédiction des délais de livraison en comparant en nouveau modèle à un modèle déjà existant
