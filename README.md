@@ -3,7 +3,7 @@
 Projet personnel de science des données appliqué à la logistique maritime
 
 ## Objectif
-Améliorer les prédiction des délais de livraison en comparant en nouveau modèle à un modèle déjà existant
+Améliorer les prédiction des délais de livraison en implémentant un nouveau modèle plus performant qu'un modèle prédictif déjà existant
 
 ## Contenu
 - Jeu de données : '[Container Tracking Data.xlsx](https://www.kaggle.com/datasets/muzammalnawaz/container-tracking-data-set)'
